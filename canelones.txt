@@ -6,3 +6,9 @@ Receta Canelones:
     - Preparar la pasta completa
     - Carne picada
     - Sofreir la Carne
+
+    PASO 5
+        - Meto los canelones en el horno.
+        - 20 minutos a 200º
+        - Emplatamos
+        
