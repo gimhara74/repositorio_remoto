@@ -1,4 +1,8 @@
-Receta Canelones
+Receta Canelones:
     - Pnemos el agua
     - La pasta
     - Sal
+    - Aceite
+    - Preparar la pasta completa
+    - Carne picada
+    - Sofreir la Carne
